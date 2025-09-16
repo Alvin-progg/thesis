@@ -14,9 +14,7 @@ project-root/
 - .htaccess → (optional) routing/security for PHP  
 - config.php → Database connection settings  
 
-public/ → Static frontend (HTML, CSS, JS, images)  
-    ├─ css/  
-    │   └─ style.css  
+public/ → Static frontend (HTML, CSS, JS, images)     
     ├─ js/  
     │   ├─ main.js → General UI scripts  
     │   ├─ order.js → Handles order requests  
